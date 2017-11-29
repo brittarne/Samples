@@ -1,0 +1,10 @@
+Find words in 3D matrix
+
+Written by Brittany Arneson
+wordfinder.icn
+
+Written by Professor Meehan for game setup
+dict_stuff.icn
+make_board
+scoring_stuff.icn
+timefuncs.icn
